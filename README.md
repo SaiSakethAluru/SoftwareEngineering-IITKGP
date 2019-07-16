@@ -1,4 +1,4 @@
-# Waste Management System
+# Worker Management System
   This is the software developed as part of the *Software Engineering Laboratory* course curriculum under **Prof. Sudip Misra** and
   **Prof. Rajib Mall**  
   
